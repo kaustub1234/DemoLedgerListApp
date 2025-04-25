@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoTransactionApp</string>
+    <string name="leger_title">Ledger List</string>
+</resources>
